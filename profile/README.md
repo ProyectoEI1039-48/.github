@@ -1,5 +1,6 @@
 # **Proyecto de Prácticas: App de Movilidad (EI1039 / EI1048)**
 **Grupo CaDaMi**
+
 Bienvenidos al repositorio de organización del proyecto conjunto para las asignaturas **EI1039 - Diseño de Software** y **EI1048 - Paradigmas de Software**. Este documento sirve como punto de referencia central para todos los miembros del equipo.
 
 ## **Sobre el Proyecto** 🗺️
